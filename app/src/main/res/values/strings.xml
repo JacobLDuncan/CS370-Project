@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">CS370-Project</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_home">Navigation View</string>
+    <string name="title_dashboard">Geo-Alert Objects</string>
+    <string name="title_notifications">Settings</string>
     <string name="group_name">Where\'s Mike?</string>
     <string name="login_button">Get Started</string>
 </resources>

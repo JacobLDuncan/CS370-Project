@@ -1,4 +1,4 @@
-package com.example.cs370_project;
+package com.example.cs370_final;
 
 import org.junit.Test;
 

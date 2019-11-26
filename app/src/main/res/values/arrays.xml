@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mobileArray" >
+        <item>Setting1</item>
+        <item>Setting2</item>
+        <item>Setting3</item>
+        <item>Setting4</item>
+        <item>Setting5</item>
+        <item>Setting6</item>
+        <item>Setting7</item>
+    </string-array>
+
+    String[] mobileArray = {"Android","IPhone","WindowsMobile","Blackberry",
+    "WebOS","Ubuntu","Windows7","Max OS X"};
+</resources>

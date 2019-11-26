@@ -1,6 +1,16 @@
 <resources>
-    <string name="app_name">CS370-Project</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">cs370_final</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map_in_pager_demo">MapInPagerDemoActivity</string>
+
+    <string name="map_not_ready">Map not ready yet</string>
+
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="permission_required_toast">Permission Required</string>
+    <string name="permission_rationale_location">Let us know your location at all times</string>
+
+
+    <string name="tab_text_1">Settings</string>
+    <string name="tab_text_2">Navigation</string>
+    <string name="tab_text_3">Recipients</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.example.cs370_project;
+package com.example.cs370_final;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.cs370_project", appContext.getPackageName());
+        assertEquals("com.example.cs370_final", appContext.getPackageName());
     }
 }

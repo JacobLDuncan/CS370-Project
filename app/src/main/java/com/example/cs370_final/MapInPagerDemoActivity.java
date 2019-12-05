@@ -69,7 +69,7 @@ public class MapInPagerDemoActivity extends AppCompatActivity implements Activit
 
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle bundle) {
-            return inflater.inflate(R.layout.text_fragment, container, false);
+            return inflater.inflate(R.layout.settings_fragment, container, false);
         }
 
     }

@@ -7,7 +7,6 @@ public class RecipientModel {
     }
 
     private String recipientName;
-    private 
 
 
 }

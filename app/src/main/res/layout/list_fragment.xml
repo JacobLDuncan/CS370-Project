@@ -6,19 +6,11 @@
     android:paddingLeft="8dp"
     android:paddingRight="8dp">
 
-
-    <ListView
-        android:id="@+id/list"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/ListRecyclerView"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:drawSelectorOnTop="false" />
+        android:layout_height="match_parent" />
 
-    <TextView
-        android:id="@+id/empty"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="At the moment it is empty" />
 
 </LinearLayout>
 

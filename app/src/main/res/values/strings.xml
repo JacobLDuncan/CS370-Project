@@ -9,8 +9,10 @@
     <string name="permission_required_toast">Permission Required</string>
     <string name="permission_rationale_location">Let us know your location at all times</string>
 
+    <string name="switch_on">On</string>
+    <string name="switch_off">Off</string>
 
-    <string name="tab_text_1">Settings</string>
+    <string name="tab_text_1">Recipients</string>
     <string name="tab_text_2">Navigation</string>
-    <string name="tab_text_3">Recipients</string>
+    <string name="tab_text_3">Settings</string>
 </resources>
